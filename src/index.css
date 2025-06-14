@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400..800&display=swap');
+@import "tailwindcss";
+body {
+    background: rgb(233, 233, 233);
+    font-family: "Sen";
+}
